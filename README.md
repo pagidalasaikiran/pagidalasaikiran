@@ -42,14 +42,6 @@ I strongly believe that **data + intelligence = impact**, and I love turning com
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pagidalasaikiran&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pagidalasaikiran&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect With Me  
 
 - 💻 [GitHub](https://github.com/pagidalasaikiran)  
