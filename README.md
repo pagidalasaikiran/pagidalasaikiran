@@ -79,9 +79,9 @@ I’m fascinated by the intersection of **Artificial Intelligence, Machine Learn
 
 - 🥇 Completed **AI & Cloud Technology Internship** – *AICTE x Edunet x IBM SkillsBuild*  
 - 🧠 Built 3+ AI-powered **Streamlit Applications**  
-- 💻 Participated in **AI Hackathons & ML Projects**  
-- 📜 Certified in **Machine Learning & Data Science Fundamentals**  
-- ⚙️ Active contributor to **open-source AI and data projects**
+- 📜 Certified in **Artifical Intelligence & Machine Learning Fundamentals**  
+- ⚙️ Active contributor to **open-source AI and data projects**  
+- 💡 Continuously learning and experimenting with **AI, ML, and many more tools**
 
 ---
 
@@ -96,9 +96,9 @@ I’m fascinated by the intersection of **Artificial Intelligence, Machine Learn
 
 ### 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-pagidala/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pagidalasaikiran)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pagidala.saikiran@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pagidala.saikiran@gmail.com)
 
 ---
 
